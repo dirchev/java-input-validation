@@ -63,25 +63,25 @@ validated.getValidationMessages();
 ### Alpha
 ```
 // Checks if the string contains only upper or lower case letters
-alpha()
+.alpha()
 ```
 
 ### Integer
 ```
 // Checks if the string contains only numbers
-integer()
+.integer()
 ```
 
 ### Max length
 ```
 // Checks if the string length is more than given length
-min_length(length)
+.min_length(length)
 ```
 
 ### Min length
 ```
 // Checks if the string length is less than the given length
-max_length(length)
+.max_length(length)
 ```
 
 ### Email
